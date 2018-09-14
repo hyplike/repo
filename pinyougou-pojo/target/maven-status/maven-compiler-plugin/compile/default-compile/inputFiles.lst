@@ -3,6 +3,7 @@ D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\p
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbTypeTemplateExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbGoodsDescExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAreasExample.java
+D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\entity\PageResult.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbPayLog.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbContentCategoryExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSpecificationOptionExample.java
@@ -23,6 +24,7 @@ D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\p
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbSellerExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbCitiesExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItemCatExample.java
+D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\entity\Result.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbBrand.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAddress.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbAreas.java
@@ -38,3 +40,4 @@ D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\p
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbItemExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbProvincesExample.java
 D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojo\TbProvinces.java
+D:\my_eclipse_work\pinyougou-parent\pinyougou-pojo\src\main\java\com\pinyougou\pojogroup\Specification.java
